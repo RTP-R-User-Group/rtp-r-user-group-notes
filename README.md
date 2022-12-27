@@ -4,45 +4,77 @@ This GitHub page is a collaborative space for the RTP R User group organizers (N
 
 git
 
-## To Do 
+## Decisions to be made:
 
-Group Name:
+1.  Group Name (suggestions below):
 
-Group purpose and goals:
+    -   RTP useR Group
 
-How often will we meet:
+    -   RTP R users
 
-Meeting format (Virtual, f2f, both)
+2.  Group purpose and goals:
 
-Locations for f2f meetings:
+3.  How often will we meet:
 
--   [Public Coworking \| Frontier RTP](https://frontier.rtp.org/coworking/)
+    If we choose to have hybrid meetings (F2F and virtual )
 
-Engagement and Marketing:
+4.  Meeting format:
 
--   Event invitation
+    -   Virtual: Zoom/Google Meet
 
--   Logo (<https://www.canva.com/>)
+    -   F2F:
 
--   Who will be a part of the community?
+        -   Locations for f2f meetings:
 
--   How do we get people engaged?
+            -   [Public Coworking \| Frontier RTP](https://frontier.rtp.org/coworking/)
 
--   How do we market it?
+5.  Meeting Structure:
 
--   What should we talk about?
+    -   Presentations
 
--   Standardize where possible
+    -   Invited guests Q&A (similar to DS Hangout)
 
--   Fit speakers into time slots, not make time slots for speakers
+    -   Book Club
 
-Event organizers: Nick, Natalia
+6.  Engagement and Marketing:
 
--   Additional help?
+    -   Event invitation
 
--   Diversity
+    -   Logo (<https://www.canva.com/>)
+
+    -   Who will be a part of the community?
+
+    -   How do we get people engaged?
+
+    -   How do we market it?
+
+    -   What should we talk about?
+
+    -   Standardize where possible
+
+    -   Fit speakers into time slots, not make time slots for speakers
+
+7.  Event organizers: Nick, Natalia
+
+    -   Additional help?
+
+    -   Diversity
+
+## To Do:
+
+1.  Name the group
+
+2.  Create meetup.com group account
+
+3.  Create logo
+
+4.  Distribute the first meeting invitation/reach out to people who can connect us with the broader audience
+
+5.  Plan first meeting
 
 ## Resources:
+
+<https://www.r-consortium.org/all-projects/r-user-group-support-program>
 
 [Making sharable documents with Quarto - Starting & Engaging a Data Science Community (posit.co)](https://colorado.posit.co/rsc/ds-community-builder/)
 
