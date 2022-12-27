@@ -2,6 +2,8 @@
 
 This GitHub page is a collaborative space for the RTP R User group organizers (Nicholas Masel (nicholas-masel) and Natalia Andriychuk (nandriychuk)).
 
+git
+
 ## To Do 
 
 Group Name:
@@ -43,3 +45,5 @@ Event organizers: Nick, Natalia
 ## Resources:
 
 [Making sharable documents with Quarto - Starting & Engaging a Data Science Community (posit.co)](https://colorado.posit.co/rsc/ds-community-builder/)
+
+[Tips on Starting an R User Group (Revolutions) (revolutionanalytics.com)](https://blog.revolutionanalytics.com/tips-on-starting-an-r-user-group.html)
