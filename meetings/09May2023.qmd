@@ -1,0 +1,65 @@
+---
+title: "RTP R User Group Meet & Greet"
+author: "09May2023"
+format: 
+  revealjs:
+    self-contained: true
+---
+
+## Meet and Greet {background-image="ice.gif"}
+
+Ice breaker (2-3 questions, 3 min)
+
+1.  Who are you? (i.e. your name and whatever else you like to share about yourself)
+
+2.  Why you joined?
+
+3.  Favorite R Package?
+
+## Why we are doing this {background-image="generic_backgroud (2).svg"}
+
+-   **Purpose**: What do we want to accomplish?
+
+    -   Community: bring people of like interests together
+
+    -   Learning: learn something new that would help your professions and/or passions
+
+-   **Goals**: What do we need to do a accomplish the items above?
+
+    -   Organize (meeting format, structure, location, timing, engagement)
+
+    -   This is your meeting! Make it what you want :)
+
+    -   Everyone is Welcome
+
+## Survey {background-image="generic_backgroud (2).svg"}
+
+Questions we will pose to the group via survey monkey:
+
+-   Anyone want to present?
+
+-   Skill level in R
+
+-   Number of times to meet
+
+-   Time to meet
+
+-   Where to meet
+
+-   Do you have a location we can use to host (\>10 ppl)?
+
+-   Ask for additional questions
+
+## Logo contest {background-image="generic_backgroud (2).svg"}
+
+-   Add logos if you are feeling creative
+
+-   We'll vote in the next meeting!
+
+-   [See or add logos](https://www.canva.com/design/DAFiWU9DZVM/tEEGof4nSl6d0T4RkS4ntw/edit?utm_content=DAFiWU9DZVM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "Click me to see or add logos")
+
+## Future topics {background-image="generic_backgroud (2).svg"}
+
+How to signup to present and/or ask for a presentation topic?
+
+-   Google form
